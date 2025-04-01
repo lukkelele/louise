@@ -1,0 +1,6 @@
+[submodule "external/bison"]
+	path = external/bison
+	url = https://github.com/akimd/bison.git
+[submodule "external/flex"]
+	path = external/flex
+	url = https://github.com/westes/flex.git
