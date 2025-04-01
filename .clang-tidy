@@ -1,0 +1,8 @@
+Checks: >
+  -*,
+  clang-analyzer-*,
+  -misc-definitions-in-headers,
+  -modernize-use-using,
+  misc-*,
+  -misc-definitions-in-headers,
+
