@@ -33,3 +33,6 @@
 
 # Ignore visual studio files.
 .vs
+
+# Ignore build directories
+**/build
